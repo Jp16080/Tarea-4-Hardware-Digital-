@@ -4,4 +4,4 @@
 
 ## Simulación
 Puedes ver y probar el circuito completo en Tinkercad aquí:
-https://www.tinkercad.com/things/ftCG0jc1tVn-alu-simple-de-2-bits-and-or-xor-suma
+* **https://www.tinkercad.com/things/ftCG0jc1tVn-alu-simple-de-2-bits-and-or-xor-suma?sharecode=Zups6o3t8w_FtLiuZzJfEweLYOs1jpfO57HUpQxQ1as**
